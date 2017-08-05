@@ -6,11 +6,11 @@
 #    By: tfontain <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/08/03 21:09:36 by tfontain          #+#    #+#              #
-#    Updated: 2017/08/04 02:30:56 by tfontain         ###   ########.fr        #
+#    Updated: 2017/08/05 01:21:44 by tfontain         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = neural_network
+NAME = neural_network.out
 
 CFLAGS = -Wall -Wextra -Wpedantic -Werror -O3
 
